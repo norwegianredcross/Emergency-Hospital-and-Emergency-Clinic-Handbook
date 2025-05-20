@@ -1,5 +1,6 @@
 # Emergency Hospital and Emergency Clinic Handbook - Offline access via Kiwix
 
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This repository holds a compressed version of the Emergency handbook created by the Norwegian Red Cross, made for offline access or slow-internet connections, using [Kiwix](https://kiwix.org/en/applications/).
 
